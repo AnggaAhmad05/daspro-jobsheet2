@@ -1,2 +1,2 @@
 # Dasar Pemprograman - Jobsheet 2
-Hi Github, ini adalah repostory pertama saya.
+Aloha Github, ini adalah repostory pertama saya.
